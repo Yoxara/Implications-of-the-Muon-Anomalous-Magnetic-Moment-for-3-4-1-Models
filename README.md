@@ -1,9 +1,9 @@
-** “Are 3-4-1 models able to explain the upcoming results of the muon anomalous magnetic moment?” **
+#  “Are 3-4-1 models able to explain the upcoming results of the muon anomalous magnetic moment?” 
 
-Mathematica numerical codes for the general analytical expressions of the muon anomalous magnetic moment to 3-4-1 Models
+### Mathematica numerical codes for the general analytical expressions of the muon anomalous magnetic moment to 3-4-1 Models
 
 
-Acknowledgments and cite should be referred to:
+## Acknowledgments and cite should be referred to:
 
 Farinaldo S. Queiroz and William Shepherd [arxiv:1403.2309] and M Lindner, M Platscher, FS Queiroz, e-Print: 1610.06587v2, [hep-ph][Bullet] DOI: 10.1016/j.physrep.2017.12.001
 
